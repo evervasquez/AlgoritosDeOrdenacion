@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Algoritmos de Ordenación</string>
+    <string name="action_settings">Configuración</string>
+    <string name="dialog_fire_missiles">Cronometrando el Tiempo</string>
+    <string name="fire">Comenzar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="pre_url_title">Total de Numeros a Ordenar</string>
+    <string name="pre_url">Ingrese el valor</string>
+    <string name="pre_summary">Colocar el total de numeros a ordenar</string>
+    <string name="pre_url_dialog">Ingrese el valor</string>
+    <string name="title_list">Configure los numeros a ordenar</string>
+	
+    <string-array name="array_list">
+        <item>Bubblesort</item>
+        <item>Inserción</item>
+        <item>Selección</item>
+        <item>Shellsort</item>
+        <item>Quicksort</item>
+    </string-array>
+    
+</resources>
